@@ -22,8 +22,3 @@ Landing page e código-fonte do site da **Hidrau Comp Comércio de Materiais Hid
 - [Tailwind CSS](https://tailwindcss.com/) – Framework CSS utilitário  
 - HTML5 / TypeScript / JavaScript  
 - Deploy pronto para produção com build otimizado
-
----
-
-## 📂 Estrutura do Projeto
-
