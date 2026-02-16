@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Hidrau Comp – Comércio de Materiais Hidráulicos
 
-# Run and deploy your AI Studio app
+Landing page e código-fonte do site da **Hidrau Comp Comércio de Materiais Hidráulicos LTDA**, empresa localizada em Araraquara – SP, especializada em fornecer materiais hidráulicos e equipamentos industriais desde 2006.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1O6qBcnIxEDRDC0l35OlI9K_D71O4CEvV
+## 📌 Sobre a Empresa
 
-## Run Locally
+**Hidrau Comp Comércio de Materiais Hidráulicos LTDA** atua no comércio atacadista de máquinas, equipamentos e peças hidráulicas para uso industrial, oferecendo produtos de qualidade, atendimento especializado e soluções confiáveis para empresas na região de Araraquara.
 
-**Prerequisites:**  Node.js
+- **CNPJ:** 08.068.037/0001-63  
+- **Fundação:** 13/03/2006  
+- **Sócios:** Luiz Fernando Ferreira e José Luís Redondo  
+- **Localização:** Rua Victor Lacorte, 40, Jardim Santa Lúcia, Araraquara – SP, CEP 14801‑460  
+- **Contato:** [WhatsApp](https://wa.me/551633242297)
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 💻 Tecnologias Utilizadas
+
+- [Vite](https://vitejs.dev/) – Build tool moderno e rápido  
+- [React](https://reactjs.org/) – Biblioteca para interfaces web  
+- [Tailwind CSS](https://tailwindcss.com/) – Framework CSS utilitário  
+- HTML5 / TypeScript / JavaScript  
+- Deploy pronto para produção com build otimizado
+
+---
+
+## 📂 Estrutura do Projeto
+
