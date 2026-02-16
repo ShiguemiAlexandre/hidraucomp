@@ -12,7 +12,6 @@ Landing page e código-fonte do site da **Hidrau Comp Comércio de Materiais Hid
 - **Fundação:** 13/03/2006  
 - **Sócios:** Luiz Fernando Ferreira e José Luís Redondo  
 - **Localização:** Rua Victor Lacorte, 40, Jardim Santa Lúcia, Araraquara – SP, CEP 14801‑460  
-- **Contato:** [WhatsApp](https://wa.me/551633242297)
 
 ---
 
